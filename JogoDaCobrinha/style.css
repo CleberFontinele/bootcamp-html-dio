@@ -1,0 +1,13 @@
+body {
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(59, 211, 13);
+  background-image: url('/JogoDaCobrinha/img/Cobrinha.png');
+  
+background-color: rgb(23, 23, 24);
+  background-size:auto;
+}
